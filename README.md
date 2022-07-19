@@ -1,4 +1,4 @@
-Olá! Esse é o meu Github sou Henrique Marioni 👋
+Olá! Sou Henrique Marioni e esse é o meu Github 👋
 
 ##
 
