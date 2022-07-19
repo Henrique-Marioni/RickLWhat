@@ -5,9 +5,9 @@ Olá! Eu sou Henrique Marioni 👋
 - 🌱 Estudando Javascript/NodeJS/MongoDB
 
 <div align="leftr">
-  <a href="https://github.com/RickLWhat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickLWhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickLWhat&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Henrique-Marioni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Marioni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Marioni&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +28,6 @@ Olá! Eu sou Henrique Marioni 👋
   <a href = "mailto:henriquemarione@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-marioni-29b683191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   ![Snake animation](https://github.com/RickLWhat/RickLWhat/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Henrique-Marioni/Henrique-Marioni/blob/output/github-contribution-grid-snake.svg)
   
 </div>
