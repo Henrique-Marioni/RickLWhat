@@ -2,7 +2,7 @@ Olá! Esse é o meu Github sou Henrique Marioni 👋
 
 ##
 
-- 🌱 Estudando Javascript/NodeJS/MongoDB
+- 🌱 Estudando Javascript / NodeJS
 
 <div align="leftr">
   <a href="https://github.com/Henrique-Marioni">
